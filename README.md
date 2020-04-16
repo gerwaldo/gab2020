@@ -6,6 +6,8 @@ Original article how to create the starter template is available [here](https://
 
 [![Nuget](https://img.shields.io/nuget/v/SoftwareAteliers.AspNetCoreVueStarter.svg?style=flat&color=2196f3)](https://www.nuget.org/packages/SoftwareAteliers.AspNetCoreVueStarter/)
 ![gab2020-web-ci](https://github.com/gerwaldo/asp-net-core-vue-starter/workflows/gab2020-web-ci/badge.svg)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/gerwaldo/gab2020.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/gerwaldo/gab2020/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/gerwaldo/gab2020.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/gerwaldo/gab2020/context:javascript)
 
 > For ASP.NET Core 2.2 template use [release v1.1.0](https://github.com/SoftwareAteliers/asp-net-core-vue-starter/releases/tag/1.1.0)
 
