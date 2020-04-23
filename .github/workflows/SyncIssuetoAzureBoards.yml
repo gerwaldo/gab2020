@@ -16,5 +16,5 @@ jobs:
           ado_organization: "ms-at"
           ado_project: "gab2020"
           ado_wit: "Issue"
-          ado_new_state: "New"
-          ado_close_state: "Closed"
+          ado_new_state: "To Do"
+          ado_close_state: "Done"
