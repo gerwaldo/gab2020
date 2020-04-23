@@ -20,7 +20,7 @@
     "vuex-class": "^0.3.2",
     "lodash": "4.17.9",
     "tar": "2.2.1",
-    "handlebars": "4.2.1"
+    "handlebars": "4.0.12"
   },
   "devDependencies": {
     "@mdi/font": "^5.0.45",
