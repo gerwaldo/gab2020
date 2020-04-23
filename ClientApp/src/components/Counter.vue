@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>Current count (Vuex):
+    <p>Current count @GAB2020:
       <strong>{{ currentCount }}</strong>
     </p>
     <v-btn class="ma-2" color="info" @click.prevent="increment">Increment</v-btn>
