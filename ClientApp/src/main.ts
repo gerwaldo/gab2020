@@ -9,6 +9,8 @@ import store from '@/store/index';
 import './registerServiceWorker';
 import dateFilter from '@/filters/date.filter';
 
+/** TODO: Vue Framework*/
+
 Vue.config.productionTip = false;
 
 Vue.filter('date', dateFilter);
