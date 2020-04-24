@@ -23,36 +23,22 @@
               <a href="https://vuetifyjs.com" target="_blank">Vuetify</a> for layout and styling</li>
           </ul>
 
-          <h3 class="headline mt-5">To help you get started, we've also set up:</h3>
+          <h3 class="headline mt-5">Thanks to the sponsors of the Global Azure Bootcamp</h3>
           <ul>
             <li>
-              <strong>Client-side navigation</strong>. For example, click <em>Counter</em> then <em>Back</em> to return here.</li>
-            <li>
-              <strong>Development server integration</strong>. In development mode, the development server from
-              <code>vue-cli-service</code> runs in the background automatically, so your client-side resources are dynamically built on 
-              demand and the page refreshes when you modify any file.</li>
-            <li>
-              <strong>Efficient production builds</strong>. In production mode, development-time features are disabled, and the
-              <code>webpack</code> build tool produces minified static CSS and JavaScript files.</li>
-          </ul>
-
-          <h3 class="headline mt-5">Integrated Vue plugins:</h3>
-          <ul>
-            <li>
-              <a href="https://vuejs.org" target="_blank"> Vue.js</a> - reactive, component-oriented view layer for modern web interfaces.</li>
-            <li>
-              <a href="https://vuetifyjs.com" target="_blank">Vuetify</a> - a reusable semantic component framework for Vue.js.</li>
-            <li>
-              <a href="https://github.com/vuejs/vue-class-component#readme" target="_blank">Class Component</a> - ES201X/Typescript class decorator for Vue components.</li>
-            <li>
-              <a href="https://github.com/kaorun343/vue-property-decorator#readme" target="_blank">Property Decorator</a> - property decorators for Vue components</li>
-            <li>
-              <a href="https://github.com/vuejs/vue-router#readme" target="_blank">Router</a> - official router for Vue.js 2</li>
-            <li>
-              <a href="https://github.com/vuejs/vuex#readme" target="_blank">Vuex</a> - state management for Vue.js</li>
-            <li>
-              <a href="https://github.com/yyx990803/register-service-worker#readme" target="_blank">Register Service Worker</a> - script for registering service 
-              worker with hooks for common events to simplify PWA development.</li>
+              <strong>Microsoft</strong></li>
+            <li>ACP</li>
+            <li>cubido</li>
+            <li>European Cloud Conference</li>
+            <li>Fronius</li>
+            <li>Guid.New</li>
+            <li>HATAHET</li>
+            <li>SpectoLogic</li>
+            <li>Stroyblok</li>
+            <li>Programmierfabrik Hagenberg</li>
+            <li>Office 365 Blog</li>
+            <li>time cockpit</li>
+            <li>Coding Club Linz</li>
           </ul>
         </v-col>
       </v-row>
