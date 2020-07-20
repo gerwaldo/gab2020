@@ -11,7 +11,7 @@
     "core-js": "^3.6.4",
     "date-fns": "^2.11.1",
     "handlebars": "^4.2.1",
-    "lodash": "4.17.9",
+    "lodash": "4.17.19",
     "register-service-worker": "^1.7.1",
     "tar": "2.2.1",
     "vue": "^2.6.11",
